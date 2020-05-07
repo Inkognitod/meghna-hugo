@@ -19,6 +19,13 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[Languages.ru]
+contentDir = "content/russian"
+copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
+home = "Главная"
+languageCode = "ru-ru"
+languageName = "Ru"
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "About Us"
