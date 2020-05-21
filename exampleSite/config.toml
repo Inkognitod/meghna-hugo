@@ -1,4 +1,4 @@
-baseURL = "https://3x3studio.ru"
+baseURL = "https://3x3studio.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
