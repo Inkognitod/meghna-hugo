@@ -4,14 +4,14 @@ about:
   title: О Нас
   about_item:
   - icon: ti-ruler-pencil
-    title: We're Creative
+    title: Мы креативны
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
   - icon: ti-cup
-    title: We're Professional
+    title: Мы профессионалы
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
   - icon: ti-thought
-    title: We're Genius
+    title: Мы гении
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
