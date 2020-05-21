@@ -54,10 +54,6 @@ weight = 2
 URL = "about"
 name = "О нас"
 weight = 1
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
-weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
